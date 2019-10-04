@@ -77,12 +77,10 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  margin:40px 550px;
   border: 2px solid grey;
 }
 
 .navbar a{
-  color:black;
   text-decoration: none;
   border: 2px solid grey;
 }
